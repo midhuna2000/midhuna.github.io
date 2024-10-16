@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '29LT Bukra Regular';
+    src: url('fonts/29ltbukraregular.eot');
+    src: url('fonts/29ltbukraregular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/29ltbukraregular.woff2') format('woff2'),
+         url('fonts/29ltbukraregular.woff') format('woff'),
+         url('fonts/29ltbukraregular.ttf')  format('truetype'),
+         url('fonts/29ltbukraregular.svg#29LT Bukra Regular') format('svg');
+}
